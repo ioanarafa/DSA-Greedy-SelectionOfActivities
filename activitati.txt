@@ -1,0 +1,12 @@
+sport 3 6
+salsa 7 9
+biliard 10 13
+picnic 4 8
+foc 9 12
+tenis 4 6
+cina 8 10
+invat 6 9
+concert 10 13
+hamac 3 6
+film 8 11
+drumetie 5 12

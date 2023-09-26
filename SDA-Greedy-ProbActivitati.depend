@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691580546 source:c:\users\user\desktop\sda-tot\greedy\sda-greedy-probactivitati\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
